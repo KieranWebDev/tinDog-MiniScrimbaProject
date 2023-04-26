@@ -23,5 +23,13 @@ const dogs = [
     hasBeenSwiped: false,
     hasBeenLiked: false,
   },
+  {
+    name: 'Dori',
+    avatar: './images/dori.jpeg',
+    age: 22,
+    bio: "Let's be best friends! no ONS ",
+    hasBeenSwiped: false,
+    hasBeenLiked: false,
+  },
 ];
 export default dogs;
