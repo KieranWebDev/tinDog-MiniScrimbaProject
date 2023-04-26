@@ -105,3 +105,11 @@ nav button {
   transform: rotate(-30deg);
   border-radius: 0;
 }
+
+.no-more-dogs {
+  height: 500px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
